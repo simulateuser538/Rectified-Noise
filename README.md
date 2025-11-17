@@ -1,6 +1,6 @@
 # [AAAI 2026] Rectified Noise: A Generative Model Using Positive-incentive Noise
 
-![Visualization of the $\pi$-noise by $\Delta$RN.](assets/visual.png)
+![Visualization of the $\pi$-noise by $\Delta$RN.](assests/visual.png)
 
 <br>
 <a href="https://arxiv.org/pdf/2511.07911"><img src="https://img.shields.io/static/v1?label=Paper&message=2511.07911&color=red&logo=arxiv"></a>
@@ -9,7 +9,7 @@
 ## Introduction
 This is a [Pytorch](https://pytorch.org) implementation of **Rectified Noise**, a generative model using positive-incentive noise to enhance model's sampling.
 
-![Overview of Laytrol](assets/pipeline.png)
+![Overview of Laytrol](assests/pipeline.png)
 
 ## Setup
 
