@@ -9,7 +9,7 @@
 ## Introduction
 This is a [Pytorch](https://pytorch.org) implementation of **Rectified Noise**, a generative model using positive-incentive noise to enhance model's sampling.
 
-![Overview of Laytrol](assets/network.png)
+![Overview of Laytrol](assets/pipeline.png)
 
 ## Setup
 
